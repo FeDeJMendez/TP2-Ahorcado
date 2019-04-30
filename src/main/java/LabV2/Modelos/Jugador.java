@@ -1,6 +1,5 @@
-package LabV2;
+package LabV2.Modelos;
 
-import LabV2.BD.BDGanador;
 import lombok.Data;
 
 @Data

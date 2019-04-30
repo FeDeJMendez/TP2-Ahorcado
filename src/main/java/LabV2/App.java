@@ -1,8 +1,8 @@
 package LabV2;
 
 import LabV2.BD.BDPalabra;
-
-import java.util.HashSet;
+import LabV2.Modelos.Jugador;
+import LabV2.Modelos.PalabraSecreta;
 
 public class App
 {
